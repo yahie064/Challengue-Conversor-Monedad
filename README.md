@@ -106,7 +106,7 @@ java ConversorMonedas
 
 * Java 11+
 * Consola para entrada/salida
-* Maven (opcional para manejo de dependencias y build)
+* IntelliJ IDEA 
 
 ---
 
