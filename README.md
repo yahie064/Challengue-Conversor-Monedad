@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/2164/2164193.png" alt="Conversor de Monedas" width="150"/>
+  <ialt="Conversor de Monedas" width="150"/>
 </p>
 
 <p align="center">
