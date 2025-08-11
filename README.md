@@ -116,11 +116,6 @@ java ConversorMonedas
 | [<img src="https://avatars.githubusercontent.com/u/84592150?v=4" width=115><br><sub>Yahir Ruiz</sub>](https://github.com/tuusuario) |
 | :---------------------------------------------------------------------------------------------------------------------------------: |
 
----
-
-## 📄 Licencia
-
-Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
 
 ---
 
