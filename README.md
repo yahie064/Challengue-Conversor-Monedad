@@ -26,7 +26,6 @@
 - [Cómo Ejecutar](#-cómo-ejecutar)
 - [Tecnologías Utilizadas](#-tecnologías-utilizadas)
 - [Autores](#-autores)
-- [Licencia](#-licencia)
 
 ---
 
