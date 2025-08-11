@@ -106,7 +106,8 @@ java ConversorMonedas
 
 * Java 11+
 * Consola para entrada/salida
-* IntelliJ IDEA 
+* IntelliJ IDEA
+* Maven
 
 ---
 
