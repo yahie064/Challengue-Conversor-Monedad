@@ -38,7 +38,7 @@ El **Conversor de Monedas en Java** es una aplicación de consola que permite co
 ## 🚧 Estado del Proyecto
 
 <h4 align="center">
-🚧 Proyecto en desarrollo 🚧
+🚧 Proyecto en Terminado 🚧
 </h4>
 
 ---
