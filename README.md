@@ -113,7 +113,7 @@ java ConversorMonedas
 
 ## 👩‍💻 Autores
 
-| [<img src="[https://avatars.githubusercontent.com/u/91544872?v=4](https://github.com/account)" width=115><br><sub>Yahir Ruiz</sub>](https://github.com/tuusuario) |
+| [<img src="https://avatars.githubusercontent.com/u/84592150?v=4" width=115><br><sub>Yahir Ruiz</sub>](https://github.com/tuusuario) |
 | :---------------------------------------------------------------------------------------------------------------------------------: |
 
 ---
